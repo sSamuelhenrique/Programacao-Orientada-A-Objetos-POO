@@ -1,0 +1,6 @@
+- colocar numa capsula
+- agrupamento de funções e variaveis
+- esconde detalhes de implementação 
+- camada de segurança para atributos e metodos
+
+posso usar os objetos, mas nao preciso saber de todos os detalhes 

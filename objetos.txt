@@ -12,3 +12,9 @@ comportamento: rolagem, uma caneta pode exercer um comportamento devido ao seu f
 atributo: portabilidade, tem a facilidade de transporte e a usabilidade em variaveis situaçoes
 metod: uma caneta pode ser usada para etiquetar itens
 
+objetos abstratos vs objetos do mundo real
+algo do mundo real para objetos: Pessoas, Aluno, Produtos, Carrinho de Compras
+
+OBJETOS NA PROGRAMAÇÃO QUE NAO SAO FACEIS DE DE IDENTIFICAR, POIS SAO ABSTRATOS: 
+Autenticação (processo de login em alguma rede social, objeto: id do usuario, nome do usuario, senha ...);
+Autorização ()

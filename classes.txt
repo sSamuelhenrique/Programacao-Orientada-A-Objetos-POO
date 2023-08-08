@@ -1,0 +1,9 @@
+As classes na orientação objetos funcionam como um molde para os objetos. Os objetos sao criados a partir de uma classe e muitos deles podem ser feitos
+da mesma classe.
+
+objetos concretos criados com base em uma classe sao chamados de instancias
+
+- syntactical sugar (sintaxe mais amigavel de protótipo);
+- protoype
+no javascript quando criado uma instancia atraves de herança prototipal, vai puxar de outra classe outra propriedades/funcionalidades ate chegar na 
+ultima cadeia de prototipos 
