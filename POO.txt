@@ -1,0 +1,13 @@
+O que é programação orientada a objetosw?
+
+- Oriented Object Programming ou OOP
+- Paradigma de desenvolvimento (uma maneira de resolver um problema)
+
+onde e quando usar?
+
+linguagens - algumas tem como paradigma funcional (não permitindo o uso da OOP) e outras sao multiparadigmas permitindo o uso
+quando quiser aplicar Padrões de Projetos
+organização do codigo
+reuso de codigo
+separar a complexidade do codigo, expondo ele de maneira mais simples
+classificação de rotinas e trechos de codigos

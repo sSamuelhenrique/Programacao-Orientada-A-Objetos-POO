@@ -1,0 +1,14 @@
+Objetos 
+Todo objeto possui:
+- Propriedades e Funcionalidades
+- Estado e Comportamento
+- Atributos e Métodos
+
+uma caneta é um objeto
+propriedade de uma caneta: cor, tamanho, peso...
+funcionalidade de uma caneta: escrever, pressionar butoes pequenos em dispositivos eletronicos ...
+estado de uma caneta: está com a tampa aberta, está sem tinta ...
+comportamento: rolagem, uma caneta pode exercer um comportamento devido ao seu formato e a superficie em que estado
+atributo: portabilidade, tem a facilidade de transporte e a usabilidade em variaveis situaçoes
+metod: uma caneta pode ser usada para etiquetar itens
+
