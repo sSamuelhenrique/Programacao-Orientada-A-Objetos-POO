@@ -1,0 +1,3 @@
+Quando um objeto estende de outro (herança) talvez haja a necessidade de reescrever uma ou mais caracteristicas (atributos e metodos) nesse novo objeto
+Recriamos entao um metodo (ou mais) da classe herdade.
+polimorfismo significa muitas formas

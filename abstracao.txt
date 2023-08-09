@@ -1,0 +1,5 @@
+Template ou identidade de uma classe que será construída no futuro
+
+- Atributos e metodos podem ser criados na classe de Abstração 
+(Superclasse) MAS 
+- A implementação de metodos e atrivutos, só poderá ser feita na classe que irá herdar essa abstração

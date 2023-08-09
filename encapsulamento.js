@@ -14,7 +14,7 @@ class Poligono{
 	
 /* quando o objeto é criado passando os argumentos essa função privada atraves da hash retorna o valor do calculo efetuado para essa classe (nao para o usuario),
 entao quando area() é  executada o get é acionado que por sua vez chama esse metodo privado, para retornar o calculo da area  */
-	#calcularArea(){
+	#calcularArea(){ //encapsulamento
 		return this.altura * this.largura
 	}
 }

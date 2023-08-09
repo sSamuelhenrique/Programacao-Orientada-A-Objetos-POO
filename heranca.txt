@@ -1,0 +1,4 @@
+- Pais e filhos
+- objetos podem herdar, ou estender, caracteristicas de outro objeto (o filho (subclasse) herda as propriedades ou metodos do pai (superclasse))
+- uma copia de atributos ou metodos de outra classe;
+js puxa um objeto de outro (prototipos)
